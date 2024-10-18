@@ -1,0 +1,14 @@
+#box {
+    background-color: rgb(34, 39, 27);
+}
+
+/* .heading {
+    color: red;
+} */
+
+h1,h2,h3 {
+    color: brown;
+}
+button{
+    background-color: rgb(216, 200, 18);
+}
