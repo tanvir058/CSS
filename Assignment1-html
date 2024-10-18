@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=,div, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet "href="style.CSS">
+    <style>
+        button{
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <div class="myclass"></div>
+        <div id="myid"> </div>
+        <div id="box"></div>
+        this is a simple text for practicing purpoose
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos error ea dolores, aliquid deserunt quae. Laudantium, necessitatibus perferendis. Hic repudiandae alias quasi totam autem rem, maxime dolores. Tempora, nisi et.
+
+    </div>
+
+    <h1 class="heading">heading 1</h1>
+    <h2 class="heading">heading 2</h2>
+    <h3 class="heading">heading 3</h3>
+
+
+    <button> click here</button>
+</body>
+</html>
