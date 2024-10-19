@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=,div, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet "href="style.CSS">
+    <style>
+        button{
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <h1 id="one"> This is tanvir</h1>
+    <p id="two">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat hic explicabo eius rem autem natus. Ipsum ab eveniet, porro dolorem earum corporis, hic unde repudiandae sunt assumenda molestiae amet atque.</p>
+
+    <div id="outer">
+        outer text will be appare here
+        <div id="inner">
+            all of the inner text will appare here
+
+        </div>
+    </div>
+</body>
+</html>
