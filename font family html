@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=,div, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet "href="style.CSS">
+    <style>
+        button{
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    
+    <p id="one">Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique eum porro laboriosam obcaecati quidem dolores, quos ipsum iure corrupti perspiciatis sunt delectus odio consectetur nihil sapiente ad consequatur, eos placeat</p>
+    
+    <p id="two">Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora delectus reiciendis commodi accusantium tempore cum voluptas molestiae perspiciatis totam quidem. Accusamus quis odit qui minima autem, culpa cumque sapiente quae.</p>
+    <h1 id="h1">hello</h1>
+    <h2 id="h2">hello</h2>
+    <h3>hello</h3>
+</body>
+</html>
