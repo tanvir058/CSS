@@ -1,0 +1,17 @@
+p{
+    text-align: left;
+    text-decoration: rgb(52, 52, 58);
+}
+
+#h1 {
+    font-weight: normal;
+}
+#h2 {
+    font-weight: lighter;
+}
+#one {
+    font-family: monospace;
+}
+#two {
+    font-family: Arial, Helvetica, sans-serif;
+}
